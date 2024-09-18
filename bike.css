@@ -154,7 +154,7 @@
     content: '';
     position: absolute;
     top: 0;
-    background-image: url('../image/slide.png');
+    background-image: url('image/slide.png');
     background-size: contain;
     background-repeat: no-repeat;
     height: 120vh;
